@@ -1,4 +1,1 @@
-golang-docker
-=============
-
-Golang web app with Docker
+Test fasthttp framework
